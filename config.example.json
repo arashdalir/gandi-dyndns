@@ -1,0 +1,11 @@
+{
+  "domain": "area-51.dev",
+  "api_key": "",
+  "ttl": 3600,
+  "records": [
+    {
+      "name": "gemik",
+      "type": "A"
+    }
+  ]
+}
